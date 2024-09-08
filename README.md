@@ -5,6 +5,8 @@ https://github.com/maheshwarisharman/sih_syncora
 
 Super Admin Website (React):
 https://github.com/maheshwarisharman/healthmanagement-superadmin-frontend
+
+https://healthmanagement-superadmin-frontend.netlify.app/
 Username - superadmin
 Password - hdims
 
